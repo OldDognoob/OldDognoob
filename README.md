@@ -1,7 +1,6 @@
-### Hello, there 👋
+### Hello, there my name is Dimos👋
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...React & Redux projects
 - 🌱 I’m currently learning ... new technologies
