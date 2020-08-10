@@ -12,7 +12,9 @@
 - ⚡ Fun fact: ... I love and respect humor !!!
 
 🏡 [website]https://dchristidis.netlify.app/# 
+
 🐦 [twitter]https://twitter.com/DimosthenisChr1 
+
 👔 [linkedin]https://www.linkedin.com/in/dimoschristidis/
 
 
