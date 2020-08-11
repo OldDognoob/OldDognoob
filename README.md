@@ -1,6 +1,7 @@
 ### Hello, there my name is Dimos👋
 
-![Ttitle of image](https://media-public.canva.com/MADGv2zIbrw/6/screen_2x.jpg =100x)
+![Ttitle of image](https://media-public.canva.com/MADGv2zIbrw/6/screen_2x.jpg)
+<img src="https://media-public.canva.com/MADGv2zIbrw/6/screen_2x.jpg" width="200" height="200" />
 
 - 🔭 I’m currently working on ...React & Redux projects
 - 🌱 I’m currently learning ... new technologies
