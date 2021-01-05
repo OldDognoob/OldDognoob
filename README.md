@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...I know my name is difficult , perhaps Dimos is the best name ever!!
 - ⚡ Fun fact: ... I love and respect humor !!!
 
-🏡 [website]https://dimoschris.com
+🏡 [website]https://dimos-christ.com
 
 🐦 [twitter]https://twitter.com/DimosthenisChr1 
 
