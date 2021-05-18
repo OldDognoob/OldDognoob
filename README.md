@@ -2,11 +2,11 @@
 
 <img src="https://media-public.canva.com/MADGv2zIbrw/6/screen_2x.jpg" width="1000" height="300" />
 
-- 🔭 I’m currently working on ...React, Redux, animations projects
-- 🌱 I’m currently learning ... new technologies such as WordPress
+- 🔭 I’m currently working on ... amazing projects
+- 🌱 I’m currently learning ... new technologies ready to adapt to new environment
 - 👯 I’m looking to collaborate on ...how to building smart friendly web applications
 - 🤔 I’m looking for help with ...my Greek-crazy mind!
-- 💬 Ask me about ...how to implement Greek Frape!
+- 💬 Ask me about ...how to climb Mount Olympus!
 - 📫 How to reach me: ...christidis.dimosthenis@gmail.com
 - 😄 Pronouns: ...I know my name is difficult , perhaps Dimos is the best name ever!!
 - ⚡ Fun fact: ... I love and respect humor !!!
